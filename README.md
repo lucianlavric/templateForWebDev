@@ -1,3 +1,4 @@
+
 # Project Name
 
 Brief description of what this project does and who it's for. Replace this text with a concise explanation of your project's purpose.
@@ -112,3 +113,5 @@ This project is licensed under the [LICENSE NAME] - see the LICENSE file for det
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
 Project Link: [https://github.com/yourusername/your-project-name](https://github.com/yourusername/your-project-name)
+=======
+A template file including the main setup for webpack and its associated JSON files
